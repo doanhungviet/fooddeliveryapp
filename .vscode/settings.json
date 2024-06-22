@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "java.import.gradle.java.home": "C:\\Program Files\\Java\\jdk-22",
+    "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-22",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
